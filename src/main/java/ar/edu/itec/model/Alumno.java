@@ -1,4 +1,4 @@
-package ar.edu.itec.Model;
+package ar.edu.itec.model;
 
 import lombok.*;
 
