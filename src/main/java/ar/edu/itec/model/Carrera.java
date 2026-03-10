@@ -7,7 +7,6 @@ import lombok.*;
 @NoArgsConstructor
 @Builder
 @ToString
-
 public class Carrera {
     private String nombre;
     private boolean activo;
