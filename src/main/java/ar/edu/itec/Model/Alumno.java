@@ -13,6 +13,7 @@ public class Alumno {
     private String apellido;
     private String telefono;
     private String email;
+    private boolean activo;
 
     public Alumno(String dni, String nombre, String apellido, String telefono, String email) {
         this.dni = dni;
